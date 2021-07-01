@@ -3,3 +3,4 @@ from cv.models import customer,experts
 
 admin.site.register(customer)
 admin.site.register(experts)
+admin.site.register(admin)
